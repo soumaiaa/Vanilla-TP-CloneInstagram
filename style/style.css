@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+/* ------------------------section connexion--------------------- */
+.bg-card{
+    background-color:  #a8adf6;
+}
+
+.title-card{
+    font-family: 'Kaushan Script', cursive;
+    
+}
+.img{
+    border-radius: 40px;
+}
+.text-card{
+    font-family: 'Inder', sans-serif;
+    font-size: 0.85em;
+}
+/* ----------------------------section created ------------------*/
+.bg-add-user{
+    background-color:  #a8adf6;
+}
+.title-add-user{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.text-created-user{
+    font-family: 'Inder', sans-serif;
+    font-size: 0.85em;
+}
+
+/* --------------------------section profil --------------------*/
+.card-profil{
+    background-color:  #a8adf6;
+}
+.post{
+    width: 100%;
+   
+}
+
+
+
+/* ----------------------------RESPONSIVE--------------------------- */
+@media(max-width: 600px){
+    img{
+        height: 30px;    
+    }
+}
